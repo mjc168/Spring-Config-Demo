@@ -1,1 +1,1 @@
-Value1: ${EnvironmentValue:EnvironmentName}
+Value1: ${EnvironmentValues:EnvironmentName}
