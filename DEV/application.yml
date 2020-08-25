@@ -1,1 +1,2 @@
-Value1: Dev
+EnvironmentValues:
+  EnvironmentName: CI_DFDEV

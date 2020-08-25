@@ -1,1 +1,2 @@
+Value1: ${EnvironmentValues:EnvironmentName}
 Value3: BASE
