@@ -1,1 +1,2 @@
-Value3: BASE
+Value1: ${EnvironmentValues:EnvironmentName}
+Value3: Master
