@@ -1,1 +1,1 @@
-Value2: my-values
+Value2: ${EnvironmentValues:EnvironmentName}
