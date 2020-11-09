@@ -1,4 +1,2 @@
-EnvironmentValues:
-  EnvironmentName: CI_DFDEV
 Value1: ${EnvironmentValues:EnvironmentName}
 Value3: Master
