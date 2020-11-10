@@ -1,2 +1,3 @@
 Value1: ${EnvironmentValues:EnvironmentName}
-Value3: Master
+Value2: Value2
+Value3: Value3
